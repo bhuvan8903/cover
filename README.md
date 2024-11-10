@@ -142,7 +142,8 @@ REG.NO:212223240018
 
 ```
 ## OUTPUT:
-![Screenshot 2024-11-10 163618](https://github.com/user-attachments/assets/7e73a82b-3a61-4066-9b6f-ea7a666c1f4c)
+
+![Screenshot 2024-11-10 211730](https://github.com/user-attachments/assets/0d7c5cc0-b706-443e-b670-560facb112d8)
 
 
 ## RESULT:
